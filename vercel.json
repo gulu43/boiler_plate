@@ -1,0 +1,8 @@
+{
+    "routes": [
+        {
+            "src": "/",
+            "dest": "/copy_html.html"
+        }
+    ]
+}
