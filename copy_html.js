@@ -27,7 +27,7 @@ btnE_var.addEventListener('click', function () {
 &lt;body&gt;
     &lt;!-- Code here --&gt;
 &lt;/body&gt;
-&lt;script src="${name}.js"&gt;&lt;/script&gt;
+&lt;script src="${name}.js" type='module' &gt;&lt;/script&gt;
 &lt;/html&gt;
 `;
 
